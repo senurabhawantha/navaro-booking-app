@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "panoramic-holiday-landscape-luxurious-beach-resort-hotel-swimming-pool-and-beach-chairs-or-loungers-under-umbrellas-with-palm-trees-blue-sunny-sky-summer-island-seaside-travel-vacation-background-photo.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
